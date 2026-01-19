@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    border-radius: 10px;
+    background-color: lightblue;
+    padding: 10px;
+}
+header a{
+    background-color: white;
+    color: rgb(133, 93, 194);
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    margin: 10px;
+}
+main h1{
+    background-color: lightblue;
+    border-radius: 10px;
+    text-align: center;
+    color:rgb(95, 40, 177);
+    padding: 10px;
+}
+footer{
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 5px;
+}
+footer p{
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+
+}
+nav a{
+    border-radius: 5px;
+    background-color: lightblue;
+    margin: 20px;
+    color: rgb(95, 40, 177);
+    text-decoration: none;
+    padding: 5px;
+   
+}
+nav{
+    padding: 15px;
+    margin: 15px;
+}
+.actual{
+    background-color: white;
+    color: rgb(95, 40, 177); 
+    border-radius: 5px;
+    margin: 20px;
+    text-decoration: none;
+    padding: 5px;
+    border: 2px solid  rgb(95, 40, 177); 
+}
+select{
+    border: 2px solid rgb(95, 40, 177);
+    color: rgb(95, 40, 177);
+    border-radius:5px ;
+    padding: 5px;
+}
+option{
+    color: white;
+    background-color:rgb(95, 40, 177);
+}
